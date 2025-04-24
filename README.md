@@ -18,7 +18,7 @@ This repository contains two main projects:
   - Keeps conversational memory in context while answering
 - **Technologies:** `LangChain`, `OpenAI`
 
-➡️ [Explore `1-llm-streaming-chatbot`](./llm-streaming-chatbot)
+➡️ [Explore `1-llm-streaming-chatbot`](./1-llm-streaming-chatbot)
 
 ---
 
@@ -31,5 +31,5 @@ This repository contains two main projects:
   - Supports multi-turn conversations with memory
 - **Technologies:** `LangChain`, `ChromaDB`, `OpenAI`
 
-➡️ [Explore `2-llm-rag-chatbot`](./llm-rag-chatbot)
+➡️ [Explore `2-llm-rag-chatbot`](./2-llm-rag-chatbot)
 
